@@ -1,0 +1,13 @@
+2018-10-23 07:33:48 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 07:33:48 INFO  PlaceOrder:49 - Logger created Successfully
+2018-10-23 07:33:48 INFO  PlaceOrder:50 - transactionOrder ID --> 169
+2018-10-23 07:33:48 INFO  PlaceOrder:51 - transactionOrder Count --> 2
+2018-10-23 07:33:48 INFO  PlaceOrder:52 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 07:33:48 INFO  PlaceOrder:54 - Loop Count for transaction --> 1
+2018-10-23 07:33:52 INFO  InitializeBrowser:40 - Best Buy URL  -->     https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 07:33:52 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 07:33:52 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 07:33:53 INFO  PlaceOrder:54 - Loop Count for transaction --> 2
+2018-10-23 07:33:57 INFO  InitializeBrowser:40 - Best Buy URL  -->     https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 07:33:57 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 07:33:57 INFO  BestBuyAddCart:9 - Get Country xPath -->  null

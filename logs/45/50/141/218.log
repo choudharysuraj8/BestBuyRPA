@@ -1,0 +1,57 @@
+2018-10-23 18:58:26 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:58:26 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:58:26 INFO  PlaceOrder:59 - transactionOrder ID --> 218
+2018-10-23 18:58:26 INFO  PlaceOrder:60 - transactionOrder Count --> 12
+2018-10-23 18:58:26 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 18:58:31 INFO  BestBuyAddCart:28 - Get Country xPath -->  [[ChromeDriver: chrome on XP (cee7fb696b95a2f1e4f806817731b3f7)] -> xpath: //a[@class='us-link']]
+2018-10-23 18:58:45 INFO  BestBuyAddCart:36 - Loop count for transaction --> 1
+2018-10-23 18:58:54 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:58:54 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:58:54 INFO  PlaceOrder:59 - transactionOrder ID --> 219
+2018-10-23 18:58:54 INFO  PlaceOrder:60 - transactionOrder Count --> 2
+2018-10-23 18:58:54 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:58:54 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 18:59:24 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 18:59:35 INFO  PlaceOrder:93 - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RAVIKU~1\AppData\Local\Temp\scoped_dir6156_9849}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cee7fb696b95a2f1e4f806817731b3f7
+*** Element info: {Using=id, value=fld-e}
+2018-10-23 18:59:39 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:59:39 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:59:39 INFO  PlaceOrder:59 - transactionOrder ID --> 220
+2018-10-23 18:59:39 INFO  PlaceOrder:60 - transactionOrder Count --> 9
+2018-10-23 18:59:39 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 18:59:43 INFO  BestBuyAddCart:28 - Get Country xPath -->  [[ChromeDriver: chrome on XP (9b99511122e8bda029a1bd01d7695eb8)] -> xpath: //a[@class='us-link']]
+2018-10-23 18:59:58 INFO  BestBuyAddCart:36 - Loop count for transaction --> 1
+2018-10-23 19:00:28 INFO  BestBuyAddCart:36 - Loop count for transaction --> 2
+2018-10-23 19:00:52 INFO  BestBuyAddCart:36 - Loop count for transaction --> 3
+2018-10-23 19:01:36 INFO  BestBuyAddCart:36 - Loop count for transaction --> 4
+2018-10-23 19:02:00 INFO  BestBuyAddCart:36 - Loop count for transaction --> 5
+2018-10-23 19:02:23 INFO  BestBuyAddCart:36 - Loop count for transaction --> 6
+2018-10-23 19:02:46 INFO  BestBuyAddCart:36 - Loop count for transaction --> 7
+2018-10-23 19:03:09 INFO  BestBuyAddCart:36 - Loop count for transaction --> 8
+2018-10-23 19:03:34 INFO  BestBuyAddCart:36 - Loop count for transaction --> 9
+2018-10-23 19:03:49 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 19:03:49 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 19:03:49 INFO  PlaceOrder:59 - transactionOrder ID --> 221
+2018-10-23 19:03:49 INFO  PlaceOrder:60 - transactionOrder Count --> 5
+2018-10-23 19:03:49 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 19:10:28 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 19:10:30 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 19:10:42 INFO  PlaceOrder:93 - org.apache.http.conn.HttpHostConnectException: Connect to localhost:7780 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+2018-10-23 19:10:46 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 19:10:46 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 19:10:46 INFO  PlaceOrder:59 - transactionOrder ID --> 222
+2018-10-23 19:10:46 INFO  PlaceOrder:60 - transactionOrder Count --> 9
+2018-10-23 19:10:46 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 19:10:49 INFO  BestBuyAddCart:28 - Get Country xPath -->  [[ChromeDriver: chrome on XP (c3c432ccac2fb47f777a0619affad255)] -> xpath: //a[@class='us-link']]

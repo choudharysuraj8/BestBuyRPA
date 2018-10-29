@@ -1,0 +1,23 @@
+2018-10-23 16:19:51 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:19:51 INFO  PlaceOrder:56 - logger created Successfully
+2018-10-23 16:19:51 INFO  PlaceOrder:57 - transactionOrder ID --> 176
+2018-10-23 16:19:51 INFO  PlaceOrder:58 - transactionOrder Count --> 9
+2018-10-23 16:19:51 INFO  PlaceOrder:59 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:19:51 INFO  PlaceOrder:61 - Loop count for transaction --> 1
+2018-10-23 16:20:01 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:20:01 INFO  BestBuyAddCart:13 - Inside add to cart method
+2018-10-23 16:20:01 INFO  BestBuyAddCart:14 - Get Country xPath -->  [[ChromeDriver: chrome on XP (a4171eb47b17343eb27058e5a392e19d)] -> xpath: //a[@class='us-link']]
+2018-10-23 16:20:42 INFO  PlaceOrder:61 - Loop count for transaction --> 2
+2018-10-23 16:20:51 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:20:51 INFO  BestBuyAddCart:13 - Inside add to cart method
+2018-10-23 16:20:51 INFO  BestBuyAddCart:14 - Get Country xPath -->  [[ChromeDriver: chrome on XP (ce60dac068ad259a8862b5e903930599)] -> xpath: //a[@class='us-link']]
+2018-10-23 16:21:34 INFO  PlaceOrder:80 - org.apache.http.conn.HttpHostConnectException: Connect to localhost:2236 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+2018-10-23 16:21:34 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:21:34 INFO  PlaceOrder:56 - logger created Successfully
+2018-10-23 16:21:34 INFO  PlaceOrder:57 - transactionOrder ID --> 178
+2018-10-23 16:21:34 INFO  PlaceOrder:58 - transactionOrder Count --> 12
+2018-10-23 16:21:34 INFO  PlaceOrder:59 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:21:34 INFO  PlaceOrder:61 - Loop count for transaction --> 1

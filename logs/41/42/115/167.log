@@ -1,0 +1,6 @@
+2018-10-23 07:30:58 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 07:30:58 INFO  PlaceOrder:? - Logger created Successfully
+2018-10-23 07:30:58 INFO  PlaceOrder:? - transactionOrder ID --> 167
+2018-10-23 07:30:58 INFO  PlaceOrder:? - transactionOrder Count --> 2
+2018-10-23 07:30:58 INFO  PlaceOrder:? - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 07:30:58 INFO  PlaceOrder:? - Loop Count for transaction --> 1

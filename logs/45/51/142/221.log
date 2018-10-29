@@ -1,0 +1,17 @@
+2018-10-23 19:03:49 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 19:03:49 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 19:03:49 INFO  PlaceOrder:59 - transactionOrder ID --> 221
+2018-10-23 19:03:49 INFO  PlaceOrder:60 - transactionOrder Count --> 5
+2018-10-23 19:03:49 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 19:10:28 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 19:10:30 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 19:10:42 INFO  PlaceOrder:93 - org.apache.http.conn.HttpHostConnectException: Connect to localhost:7780 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+2018-10-23 19:10:46 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 19:10:46 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 19:10:46 INFO  PlaceOrder:59 - transactionOrder ID --> 222
+2018-10-23 19:10:46 INFO  PlaceOrder:60 - transactionOrder Count --> 9
+2018-10-23 19:10:46 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 19:10:49 INFO  BestBuyAddCart:28 - Get Country xPath -->  [[ChromeDriver: chrome on XP (c3c432ccac2fb47f777a0619affad255)] -> xpath: //a[@class='us-link']]

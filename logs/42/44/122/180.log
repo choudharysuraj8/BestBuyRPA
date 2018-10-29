@@ -1,0 +1,16 @@
+2018-10-23 16:41:08 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:41:08 INFO  PlaceOrder:57 - logger created Successfully
+2018-10-23 16:41:08 INFO  PlaceOrder:58 - transactionOrder ID --> 180
+2018-10-23 16:41:08 INFO  PlaceOrder:59 - transactionOrder Count --> 12
+2018-10-23 16:41:08 INFO  PlaceOrder:60 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:41:36 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:41:57 INFO  BestBuyAddCart:18 - Loop count for transaction --> 1
+2018-10-23 16:42:03 INFO  PlaceOrder:87 - 
+2018-10-23 16:42:15 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:42:15 INFO  PlaceOrder:57 - logger created Successfully
+2018-10-23 16:42:15 INFO  PlaceOrder:58 - transactionOrder ID --> 182
+2018-10-23 16:42:15 INFO  PlaceOrder:59 - transactionOrder Count --> 12
+2018-10-23 16:42:16 INFO  PlaceOrder:60 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:42:57 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:43:00 INFO  BestBuyAddCart:18 - Loop count for transaction --> 1
+2018-10-23 16:43:01 INFO  BestBuyAddCart:20 - Get Country xPath -->  [[ChromeDriver: chrome on XP (5a35f858dacbd98d2b08324274614286)] -> xpath: //a[@class='us-link']]

@@ -1,0 +1,11 @@
+2018-10-23 18:52:46 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:52:46 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:52:46 INFO  PlaceOrder:59 - transactionOrder ID --> 216
+2018-10-23 18:52:46 INFO  PlaceOrder:60 - transactionOrder Count --> 12
+2018-10-23 18:52:46 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 18:52:47 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:52:47 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:52:47 INFO  PlaceOrder:59 - transactionOrder ID --> 217
+2018-10-23 18:52:47 INFO  PlaceOrder:60 - transactionOrder Count --> 2
+2018-10-23 18:52:47 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:52:47 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started

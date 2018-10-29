@@ -1,0 +1,380 @@
+2018-10-23 07:08:24 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 07:08:24 INFO  PlaceOrder:48 - Logger created Successfully
+2018-10-23 07:08:24 INFO  PlaceOrder:49 - transactionOrder ID --> 143
+2018-10-23 07:08:24 INFO  PlaceOrder:50 - transactionOrder Count --> 2
+2018-10-23 07:08:24 INFO  PlaceOrder:51 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 07:08:24 INFO  PlaceOrder:53 - Loop Count for transaction --> 1
+2018-10-23 07:08:30 INFO  InitializeBrowser:40 - Best Buy URL  -->     https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 07:08:30 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 07:08:30 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 07:08:31 INFO  PlaceOrder:53 - Loop Count for transaction --> 2
+2018-10-23 07:08:35 INFO  InitializeBrowser:40 - Best Buy URL  -->     https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 07:08:35 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 07:08:35 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 16:18:55 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:18:55 INFO  PlaceOrder:56 - logger created Successfully
+2018-10-23 16:18:55 INFO  PlaceOrder:57 - transactionOrder ID --> 143
+2018-10-23 16:18:55 INFO  PlaceOrder:58 - transactionOrder Count --> 1
+2018-10-23 16:18:55 INFO  PlaceOrder:59 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 16:18:55 INFO  PlaceOrder:61 - Loop count for transaction --> 1
+2018-10-23 16:19:03 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 16:19:03 INFO  BestBuyAddCart:13 - Inside add to cart method
+2018-10-23 16:19:03 INFO  BestBuyAddCart:14 - Get Country xPath -->  [[ChromeDriver: chrome on XP (b8c1d06a0e86c064fa52d2b1d4ca01c4)] -> xpath: //a[@class='us-link']]
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:74 - Record are new or not Proceed
+2018-10-23 16:19:51 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:19:51 INFO  PlaceOrder:56 - logger created Successfully
+2018-10-23 16:19:51 INFO  PlaceOrder:57 - transactionOrder ID --> 176
+2018-10-23 16:19:51 INFO  PlaceOrder:58 - transactionOrder Count --> 9
+2018-10-23 16:19:51 INFO  PlaceOrder:59 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:19:51 INFO  PlaceOrder:61 - Loop count for transaction --> 1
+2018-10-23 16:20:01 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:20:01 INFO  BestBuyAddCart:13 - Inside add to cart method
+2018-10-23 16:20:01 INFO  BestBuyAddCart:14 - Get Country xPath -->  [[ChromeDriver: chrome on XP (a4171eb47b17343eb27058e5a392e19d)] -> xpath: //a[@class='us-link']]
+2018-10-23 16:20:42 INFO  PlaceOrder:61 - Loop count for transaction --> 2
+2018-10-23 16:20:51 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:20:51 INFO  BestBuyAddCart:13 - Inside add to cart method
+2018-10-23 16:20:51 INFO  BestBuyAddCart:14 - Get Country xPath -->  [[ChromeDriver: chrome on XP (ce60dac068ad259a8862b5e903930599)] -> xpath: //a[@class='us-link']]
+2018-10-23 16:21:34 INFO  PlaceOrder:80 - org.apache.http.conn.HttpHostConnectException: Connect to localhost:2236 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+2018-10-23 16:21:34 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:21:34 INFO  PlaceOrder:56 - logger created Successfully
+2018-10-23 16:21:34 INFO  PlaceOrder:57 - transactionOrder ID --> 178
+2018-10-23 16:21:34 INFO  PlaceOrder:58 - transactionOrder Count --> 12
+2018-10-23 16:21:34 INFO  PlaceOrder:59 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:21:34 INFO  PlaceOrder:61 - Loop count for transaction --> 1
+2018-10-23 17:15:51 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 17:15:51 INFO  PlaceOrder:57 - logger created Successfully
+2018-10-23 17:15:51 INFO  PlaceOrder:58 - transactionOrder ID --> 143
+2018-10-23 17:15:51 INFO  PlaceOrder:59 - transactionOrder Count --> 1
+2018-10-23 17:15:51 INFO  PlaceOrder:60 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 17:16:12 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 17:16:12 INFO  BestBuyAddCart:19 - Get Country xPath -->  [[ChromeDriver: chrome on XP (922f4f19f0df6378ae9ef64122d91609)] -> xpath: //a[@class='us-link']]
+2018-10-23 17:16:28 INFO  BestBuyAddCart:24 - Loop count for transaction --> 1
+2018-10-23 17:40:23 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 17:40:23 INFO  PlaceOrder:56 - logger created Successfully
+2018-10-23 17:40:23 INFO  PlaceOrder:57 - transactionOrder ID --> 143
+2018-10-23 17:40:23 INFO  PlaceOrder:58 - transactionOrder Count --> 1
+2018-10-23 17:40:23 INFO  PlaceOrder:59 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 17:40:32 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 17:40:32 INFO  BestBuyAddCart:23 - Get Country xPath -->  [[ChromeDriver: chrome on XP (1f8f750fb61fa792b8b345210a8d5936)] -> xpath: //a[@class='us-link']]
+2018-10-23 17:40:54 INFO  BestBuyAddCart:28 - Loop count for transaction --> 1
+2018-10-23 17:41:29 INFO  PlaceOrder:87 - org.apache.http.conn.HttpHostConnectException: Connect to localhost:42311 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+2018-10-23 17:41:29 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:29 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:29 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:29 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:29 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:81 - Record are new or not Proceed
+2018-10-23 17:41:30 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 17:41:30 INFO  PlaceOrder:56 - logger created Successfully
+2018-10-23 17:41:30 INFO  PlaceOrder:57 - transactionOrder ID --> 214
+2018-10-23 17:41:30 INFO  PlaceOrder:58 - transactionOrder Count --> 12
+2018-10-23 17:41:30 INFO  PlaceOrder:59 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 17:41:40 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 17:41:40 INFO  BestBuyAddCart:23 - Get Country xPath -->  [[ChromeDriver: chrome on XP (6aeeeb0e1cffa95f5deca681e7d3551e)] -> xpath: //a[@class='us-link']]
+2018-10-23 17:41:54 INFO  BestBuyAddCart:28 - Loop count for transaction --> 1
+2018-10-23 17:51:01 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 17:51:01 INFO  PlaceOrder:57 - logger created Successfully
+2018-10-23 17:51:01 INFO  PlaceOrder:58 - transactionOrder ID --> 143
+2018-10-23 17:51:01 INFO  PlaceOrder:59 - transactionOrder Count --> 1
+2018-10-23 17:51:01 INFO  PlaceOrder:60 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 17:53:52 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 17:53:52 INFO  PlaceOrder:57 - logger created Successfully
+2018-10-23 17:53:52 INFO  PlaceOrder:58 - transactionOrder ID --> 143
+2018-10-23 17:53:52 INFO  PlaceOrder:59 - transactionOrder Count --> 1
+2018-10-23 17:53:52 INFO  PlaceOrder:60 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 17:55:15 INFO  BestBuyAddCart:24 - Get Country xPath -->  Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='us-link']'
+2018-10-23 17:55:42 INFO  BestBuyAddCart:29 - Loop count for transaction --> 1
+2018-10-23 18:11:25 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:11:25 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:11:25 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 18:11:25 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 18:11:25 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:11:26 INFO  BestBuyAddCart:28 - Get Country xPath -->  Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='us-link']'
+2018-10-23 18:16:14 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:16:14 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:16:14 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 18:16:14 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 18:16:14 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:31:21 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:31:21 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:31:21 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 18:31:21 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 18:31:21 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:31:29 INFO  BestBuyAddCart:28 - Get Country xPath -->  Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='us-link']'
+2018-10-23 18:31:29 INFO  BestBuyAddCart:36 - Loop count for transaction --> 1
+2018-10-23 18:31:54 INFO  BestBuyCheckoutTest:78 - Checkout started for current order transaction
+2018-10-23 18:36:42 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:36:42 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:36:42 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 18:36:42 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 18:36:42 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:37:15 INFO  BestBuyCheckoutTest:78 - Checkout started for current order transaction
+2018-10-23 18:44:32 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:44:32 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:44:32 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 18:44:32 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 18:44:32 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:44:42 INFO  BestBuyAddCart:28 - Get Country xPath -->  Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='us-link']'
+2018-10-23 18:44:42 INFO  BestBuyAddCart:36 - Loop count for transaction --> 1
+2018-10-23 18:45:09 INFO  BestBuyCheckoutTest:78 - Checkout started for current order transaction
+2018-10-23 18:52:25 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:52:25 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:52:25 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 18:52:25 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 18:52:25 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:52:27 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 18:52:29 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 18:52:41 INFO  PlaceOrder:93 - org.apache.http.conn.HttpHostConnectException: Connect to localhost:35546 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:41 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:42 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:52:46 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:52:46 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:52:46 INFO  PlaceOrder:59 - transactionOrder ID --> 216
+2018-10-23 18:52:46 INFO  PlaceOrder:60 - transactionOrder Count --> 12
+2018-10-23 18:52:46 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 18:52:47 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:52:47 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:52:47 INFO  PlaceOrder:59 - transactionOrder ID --> 217
+2018-10-23 18:52:47 INFO  PlaceOrder:60 - transactionOrder Count --> 2
+2018-10-23 18:52:47 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:52:47 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 18:57:57 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:57:57 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:57:57 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 18:57:57 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 18:57:57 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:58:07 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 18:58:09 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 18:58:21 INFO  PlaceOrder:93 - org.apache.http.conn.HttpHostConnectException: Connect to localhost:21326 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:21 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:22 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:22 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:22 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:22 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:22 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:22 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:22 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:22 INFO  PlaceOrder:87 - Record are new or not Proceed
+2018-10-23 18:58:26 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:58:26 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:58:26 INFO  PlaceOrder:59 - transactionOrder ID --> 218
+2018-10-23 18:58:26 INFO  PlaceOrder:60 - transactionOrder Count --> 12
+2018-10-23 18:58:26 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 18:58:31 INFO  BestBuyAddCart:28 - Get Country xPath -->  [[ChromeDriver: chrome on XP (cee7fb696b95a2f1e4f806817731b3f7)] -> xpath: //a[@class='us-link']]
+2018-10-23 18:58:45 INFO  BestBuyAddCart:36 - Loop count for transaction --> 1
+2018-10-23 18:58:54 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:58:54 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:58:54 INFO  PlaceOrder:59 - transactionOrder ID --> 219
+2018-10-23 18:58:54 INFO  PlaceOrder:60 - transactionOrder Count --> 2
+2018-10-23 18:58:54 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 18:58:54 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 18:59:24 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 18:59:35 INFO  PlaceOrder:93 - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.1.7601 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\Users\RAVIKU~1\AppData\Local\Temp\scoped_dir6156_9849}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cee7fb696b95a2f1e4f806817731b3f7
+*** Element info: {Using=id, value=fld-e}
+2018-10-23 18:59:39 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 18:59:39 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 18:59:39 INFO  PlaceOrder:59 - transactionOrder ID --> 220
+2018-10-23 18:59:39 INFO  PlaceOrder:60 - transactionOrder Count --> 9
+2018-10-23 18:59:39 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 18:59:43 INFO  BestBuyAddCart:28 - Get Country xPath -->  [[ChromeDriver: chrome on XP (9b99511122e8bda029a1bd01d7695eb8)] -> xpath: //a[@class='us-link']]
+2018-10-23 18:59:58 INFO  BestBuyAddCart:36 - Loop count for transaction --> 1
+2018-10-23 19:00:28 INFO  BestBuyAddCart:36 - Loop count for transaction --> 2
+2018-10-23 19:00:52 INFO  BestBuyAddCart:36 - Loop count for transaction --> 3
+2018-10-23 19:01:36 INFO  BestBuyAddCart:36 - Loop count for transaction --> 4
+2018-10-23 19:02:00 INFO  BestBuyAddCart:36 - Loop count for transaction --> 5
+2018-10-23 19:02:23 INFO  BestBuyAddCart:36 - Loop count for transaction --> 6
+2018-10-23 19:02:46 INFO  BestBuyAddCart:36 - Loop count for transaction --> 7
+2018-10-23 19:03:09 INFO  BestBuyAddCart:36 - Loop count for transaction --> 8
+2018-10-23 19:03:34 INFO  BestBuyAddCart:36 - Loop count for transaction --> 9
+2018-10-23 19:03:49 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 19:03:49 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 19:03:49 INFO  PlaceOrder:59 - transactionOrder ID --> 221
+2018-10-23 19:03:49 INFO  PlaceOrder:60 - transactionOrder Count --> 5
+2018-10-23 19:03:49 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 19:10:28 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 19:10:30 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 19:10:42 INFO  PlaceOrder:93 - org.apache.http.conn.HttpHostConnectException: Connect to localhost:7780 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'SURAJ', ip: '192.168.1.101', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: RemoteWebDriver
+2018-10-23 19:10:46 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 19:10:46 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 19:10:46 INFO  PlaceOrder:59 - transactionOrder ID --> 222
+2018-10-23 19:10:46 INFO  PlaceOrder:60 - transactionOrder Count --> 9
+2018-10-23 19:10:46 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 19:10:49 INFO  BestBuyAddCart:28 - Get Country xPath -->  [[ChromeDriver: chrome on XP (c3c432ccac2fb47f777a0619affad255)] -> xpath: //a[@class='us-link']]
+2018-10-23 19:16:52 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 19:16:52 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 19:16:52 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 19:16:52 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 19:16:52 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 19:17:01 INFO  BestBuyAddCart:35 - Get Country xPath -->  Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='us-link']'
+2018-10-23 19:17:01 INFO  BestBuyAddCart:42 - Loop count for transaction --> 1
+2018-10-23 19:17:19 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 19:17:23 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 19:24:37 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 19:24:37 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 19:24:37 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 19:24:37 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 19:24:37 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 19:25:26 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 19:26:03 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 21:39:29 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 21:39:29 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 21:39:29 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 21:39:29 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 21:39:29 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 21:54:44 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 21:54:44 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 21:54:44 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 21:54:44 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 21:54:44 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 21:55:18 INFO  BestBuyAddCart:27 - Get Country xPath -->  Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='us-link']'
+2018-10-23 21:55:18 INFO  BestBuyAddCart:44 - Loop count for transaction --> 1
+2018-10-23 21:55:40 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 21:56:10 INFO  BestBuyCheckoutTest:32 - Checkout option selected, Proceed with Checkout
+2018-10-23 22:02:46 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 22:02:46 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 22:02:46 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 22:02:46 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 22:02:46 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 22:03:34 INFO  BestBuyAddCart:27 - Get Country xPath -->  Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='us-link']'
+2018-10-23 22:03:34 INFO  BestBuyAddCart:44 - Loop count for transaction --> 1
+2018-10-23 22:04:03 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 22:06:57 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 22:06:57 INFO  PlaceOrder:58 - logger created Successfully
+2018-10-23 22:06:57 INFO  PlaceOrder:59 - transactionOrder ID --> 143
+2018-10-23 22:06:57 INFO  PlaceOrder:60 - transactionOrder Count --> 1
+2018-10-23 22:06:57 INFO  PlaceOrder:61 - transactionOrder URL --> https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195
+2018-10-23 22:07:09 INFO  BestBuyAddCart:27 - Get Country xPath -->  Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='us-link']'
+2018-10-23 22:07:09 INFO  BestBuyAddCart:44 - Loop count for transaction --> 1
+2018-10-23 22:07:32 INFO  BestBuyCheckoutTest:23 - Checkout Process has been started
+2018-10-23 22:07:46 INFO  BestBuyCheckoutTest:33 - Go to cart to start checkout process
+2018-10-23 22:08:30 INFO  BestBuyCheckoutTest:38 - Checkout option selected, Proceed with Checkout

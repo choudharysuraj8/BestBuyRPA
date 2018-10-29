@@ -1,0 +1,463 @@
+2018-10-12 16:33:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-12 16:35:27 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-12 16:35:52 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:21:10 INFO  OrderPlacement:47 - New Message Inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:32:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:32:51 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:33:12 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:33:12 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:33:41 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:33:41 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:33:48 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Master Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:34:49 INFO  OrderPlacement:? - Transaction Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:35:40 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:35:40 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:44:39 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:44:39 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:44:39 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:44:39 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:45:27 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:45:27 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:45:27 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:45:27 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:46:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:46:05 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:46:05 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:46:05 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:46:28 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:46:28 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:46:28 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:46:28 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:47:59 INFO  OrderPlacement:49 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:54 - Master Stattus in NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:47:59 INFO  OrderPlacement:57 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:53:45 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:53:45 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:59:17 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:17 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 22:59:37 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 22:59:37 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 22:59:37 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 22:59:37 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 23:00:00 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:00:00 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 1 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 4 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 2
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 23:01:18 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 2 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 3
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:01:18 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:02:08 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:02:08 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 23:02:08 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:02:08 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:06:47 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:06:47 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 23:06:47 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:06:47 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:07:50 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:07:50 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 23:07:50 INFO  OrderPlacement:55 - Master Stattus in NEW
+2018-10-13 23:07:50 INFO  OrderPlacement:58 - Transaction Stattus is NEW
+2018-10-13 23:14:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:14:49 INFO  OrderPlacement:50 - Master Status null MasterId 0 OrderId 0 DetailId 0 TransacationDetail id 0 URL null  QTY 0
+2018-10-13 23:17:56 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:17:56 INFO  OrderPlacement:50 - Master Status null MasterId 0 OrderId 0 DetailId 0 TransacationDetail id 0 URL null  QTY 0
+2018-10-13 23:18:15 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:18:15 INFO  OrderPlacement:50 - Master Status TRUE MasterId 1 OrderId 3 DetailId 1 TransacationDetail id 1 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 1
+2018-10-13 23:18:15 INFO  OrderPlacement:57 - Master Stattus in NEW
+2018-10-13 23:18:15 INFO  OrderPlacement:60 - Transaction Stattus is NEW
+2018-10-13 23:28:14 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-13 23:28:14 INFO  OrderPlacement:50 - Master Status null MasterId 0 OrderId 0 DetailId 0 TransacationDetail id 0 URL null  QTY 0
+2018-10-16 22:53:55 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 22:53:55 INFO  OrderPlacement:50 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 22:53:55 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 22:53:55 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 22:53:55 INFO  OrderPlacement:50 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 22:53:55 INFO  OrderPlacement:50 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 22:58:57 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 22:58:58 INFO  OrderPlacement:50 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 22:59:30 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 22:59:30 INFO  OrderPlacement:50 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:02:03 INFO  OrderPlacement:57 - Master Stattus in NEW
+2018-10-16 23:03:10 INFO  OrderPlacement:60 - Transaction Stattus is NEW
+2018-10-16 23:08:22 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:08:22 INFO  OrderPlacement:50 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:09:10 INFO  OrderPlacement:57 - Master Stattus in NEW
+2018-10-16 23:09:10 INFO  OrderPlacement:60 - Transaction Stattus is NEW
+2018-10-16 23:18:58 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:18:58 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:19:50 INFO  OrderPlacement:58 - Master Stattus in NEW
+2018-10-16 23:19:52 INFO  OrderPlacement:61 - Transaction Stattus is NEW
+2018-10-16 23:20:58 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:20:58 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:22:43 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:22:43 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:22:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:22:51 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:22:51 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:22:51 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:24:40 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:24:40 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:24:43 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:24:43 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:24:43 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:24:43 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:30:05 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:30:05 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:31:38 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:31:38 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:31:38 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:31:38 INFO  OrderPlacement:51 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:34:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:34:00 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:34:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:34:00 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:34:00 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:34:00 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:43:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:43:49 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:43:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:43:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:43:49 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:43:49 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:45:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:45:49 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:45:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:45:49 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:45:49 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:45:49 INFO  OrderPlacement:52 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:46:30 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:46:30 INFO  OrderPlacement:53 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:46:30 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:46:30 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:46:30 INFO  OrderPlacement:53 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:46:30 INFO  OrderPlacement:53 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:54:09 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:54:09 INFO  OrderPlacement:54 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-16 23:54:09 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:54:09 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-16 23:54:09 INFO  OrderPlacement:54 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-16 23:54:09 INFO  OrderPlacement:54 - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-17 23:14:12 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-17 23:14:24 INFO  OrderPlacement:56 - Master Status NW MasterId 39 OrderId 142 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400  QTY 12
+2018-10-17 23:14:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-17 23:14:45 INFO  OrderPlacement:46 - New Message 1 inserted
+2018-10-17 23:14:45 INFO  OrderPlacement:? - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2
+2018-10-17 23:14:45 INFO  OrderPlacement:? - Master Status NW MasterId 39 OrderId 143 DetailId 38 TransacationDetail id 103 URL https://www.bestbuy.com/site/google-home-mini-smart-speaker-with-google-assistant-charcoal/6082195.p?skuId=6082195  QTY 2

@@ -1,0 +1,6 @@
+2018-10-23 16:21:34 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:21:34 INFO  PlaceOrder:56 - logger created Successfully
+2018-10-23 16:21:34 INFO  PlaceOrder:57 - transactionOrder ID --> 178
+2018-10-23 16:21:34 INFO  PlaceOrder:58 - transactionOrder Count --> 12
+2018-10-23 16:21:34 INFO  PlaceOrder:59 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:21:34 INFO  PlaceOrder:61 - Loop count for transaction --> 1

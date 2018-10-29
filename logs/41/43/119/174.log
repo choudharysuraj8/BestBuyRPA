@@ -1,0 +1,42 @@
+2018-10-23 15:48:56 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 15:48:56 INFO  PlaceOrder:54 - logger created Successfully
+2018-10-23 15:48:56 INFO  PlaceOrder:55 - transactionOrder ID --> 174
+2018-10-23 15:48:56 INFO  PlaceOrder:56 - transactionOrder Count --> 9
+2018-10-23 15:48:56 INFO  PlaceOrder:57 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:48:56 INFO  PlaceOrder:59 - Loop count for transaction --> 1
+2018-10-23 15:49:02 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:02 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:02 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:49:04 INFO  PlaceOrder:59 - Loop count for transaction --> 2
+2018-10-23 15:49:10 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:10 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:10 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:49:11 INFO  PlaceOrder:59 - Loop count for transaction --> 3
+2018-10-23 15:49:17 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:17 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:17 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:49:18 INFO  PlaceOrder:59 - Loop count for transaction --> 4
+2018-10-23 15:49:23 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:23 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:23 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:49:24 INFO  PlaceOrder:59 - Loop count for transaction --> 5
+2018-10-23 15:49:30 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:30 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:30 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:49:31 INFO  PlaceOrder:59 - Loop count for transaction --> 6
+2018-10-23 15:49:37 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:37 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:37 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:49:38 INFO  PlaceOrder:59 - Loop count for transaction --> 7
+2018-10-23 15:49:44 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:44 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:44 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:49:46 INFO  PlaceOrder:59 - Loop count for transaction --> 8
+2018-10-23 15:49:52 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:52 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:52 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:49:53 INFO  PlaceOrder:59 - Loop count for transaction --> 9
+2018-10-23 15:49:57 INFO  InitializeBrowser:41 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 15:49:57 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 15:49:57 INFO  BestBuyAddCart:9 - Get Country xPath -->  null
+2018-10-23 15:50:20 INFO  BestBuyCheckoutTest:78 - Checkout started for current order transaction

@@ -1,0 +1,9 @@
+2018-10-23 07:02:23 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 07:02:26 INFO  PlaceOrder:49 - Logger created Successfully
+2018-10-23 07:02:27 INFO  PlaceOrder:50 - transactionOrder ID --> 103
+2018-10-23 07:02:27 INFO  PlaceOrder:51 - transactionOrder Count --> 10
+2018-10-23 07:02:29 INFO  PlaceOrder:52 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 07:02:33 INFO  PlaceOrder:54 - Loop Count for transaction --> 1
+2018-10-23 07:02:51 INFO  InitializeBrowser:40 - Best Buy URL  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 07:02:51 INFO  BestBuyAddCart:8 - Inside add to cart method
+2018-10-23 07:02:56 INFO  BestBuyAddCart:9 - Get Country xPath -->  null

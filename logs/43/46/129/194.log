@@ -1,0 +1,15 @@
+2018-10-23 16:58:08 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:58:08 INFO  PlaceOrder:57 - logger created Successfully
+2018-10-23 16:58:08 INFO  PlaceOrder:58 - transactionOrder ID --> 194
+2018-10-23 16:58:08 INFO  PlaceOrder:59 - transactionOrder Count --> 12
+2018-10-23 16:58:08 INFO  PlaceOrder:60 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:58:30 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:58:30 INFO  PlaceOrder:87 - 
+2018-10-23 16:58:30 INFO  PlaceOrder:54 - New Message 1 inserted
+2018-10-23 16:58:30 INFO  PlaceOrder:57 - logger created Successfully
+2018-10-23 16:58:30 INFO  PlaceOrder:58 - transactionOrder ID --> 196
+2018-10-23 16:58:30 INFO  PlaceOrder:59 - transactionOrder Count --> 9
+2018-10-23 16:58:30 INFO  PlaceOrder:60 - transactionOrder URL --> https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:58:47 INFO  InitializeBrowser:42 - URL to proceed with transaction  -->     https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400
+2018-10-23 16:58:47 INFO  BestBuyAddCart:18 - Get Country xPath -->  [[ChromeDriver: chrome on XP (88148b2aceba3c634129fa7ed1ce9db7)] -> xpath: //a[@class='us-link']]
+2018-10-23 16:59:06 INFO  BestBuyAddCart:23 - Loop count for transaction --> 1
